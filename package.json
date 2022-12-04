@@ -2,7 +2,7 @@
   "name": "lahiruportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://lahiruhash.github.io",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "cross-env INLINE_RUNTIME_CHUNK=false && npm run build",
+    "build": "npm run build",
     "eject": "react-scripts --openssl-legacy-provider eject",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",

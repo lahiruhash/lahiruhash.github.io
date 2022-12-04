@@ -13,7 +13,7 @@ const about = {
   role: 'ENGINEERING UNDERGRADUATE',
   description:
     'I\'m a final year undergraduate at Department of Electrical and Electronic Engineering,University of Peradeniya.',
-  resume: 'https://drive.google.com/folderview?id=1fu8IXXezP6UlIXVQoljzyB2J4pVr7RTs',
+  resume: 'https://drive.google.com/drive/u/0/folders/1kPPjnJp1glUAhxOA8VrTYFDew-gjqsnP',
 }
 
 const projects = [
